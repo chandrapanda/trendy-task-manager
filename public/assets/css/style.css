@@ -1,9 +1,15 @@
 body {
-    background-color: bisque;
+    background-color: rgb(231, 224, 210);
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    justify-content: center;
 }
 
 #random {
     font-size: large;
     color: blue;
+}
+
+#cool-pic {
+    max-width: 50%;
 }
